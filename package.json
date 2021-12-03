@@ -1,11 +1,12 @@
 {
-  "name": "advent-of-code",
+  "name": "rekeye-advent-of-code",
   "version": "1.0.0",
   "description": "A repo containing solutions for the Advent Of Code.",
   "author": "rekeye <12szymon.paluch34@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
+    "day-1": "ts-node ./src/typescript/day-1.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {

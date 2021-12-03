@@ -6,15 +6,23 @@ The solutions are written in Typescript with Node.js
 
 ## Requirements
 
-### `yarn`
+### `npm`
 
-To install yarn on your system please visit [the official Yarn documentation.](https://yarnpkg.com/getting-started/install)
+This project uses npm for installing dependencies and packing the solutions.
+To install npm on your system please visit [the official NPM documentation.](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
+## Installing 
+
+Install the package with `npm install rekeye-advent-of-code`
 
 ## Usage
 
-Install the packages with `yarn install`.
+Run the selected script using `day-{1}`
+
+## Usage locally
+
+Install the dependencies with `npm install`.
 
 If you want you can swap the inputs in the `_inputs` folder.
 
-Execute the selected solution by running `yarn day-{1-3}`.
+Run the selected script using `npm run day-{1}`
