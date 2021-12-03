@@ -7,7 +7,7 @@
   "private": false,
   "scripts": {
     "dayOne": "ts-node ./src/typescript/dayOne.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -r ts-node/register './src/tests/**/*.ts'"
   },
   "bin": {
     "dayOne": "./bin/dayOne"
