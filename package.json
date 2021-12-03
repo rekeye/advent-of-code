@@ -1,6 +1,6 @@
 {
   "name": "@rekeye/advent-of-code",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A repo containing solutions for the Advent Of Code.",
   "author": "rekeye <12szymon.paluch34@gmail.com>",
   "repository": "git://github.com/rekeye/advent-of-code.git",
