@@ -17,7 +17,7 @@ Install the package with `npm install rekeye-advent-of-code`
 
 ## Usage
 
-Run the selected script using `day{1}`
+Run the selected script using `day{One | Two | Three | etc.}`
 
 ## Usage locally
 
