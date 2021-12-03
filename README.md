@@ -13,7 +13,7 @@ To install npm on your system please visit [the official NPM documentation.](htt
 
 ## Installing 
 
-Install the package with `npm install rekeye-advent-of-code`
+Install the package with `npm install @rekeye/advent-of-code`
 
 ## Usage
 
