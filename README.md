@@ -17,12 +17,21 @@ Install the package with `npm install rekeye-advent-of-code`
 
 ## Usage
 
+
 Run the selected script using `day{One | Two | Three | etc.}`
 
-## Usage locally
+## Installing locally
 
 Install the dependencies with `npm install`.
 
 If you want you can swap the inputs in the `_inputs` folder.
 
-Run the selected script using `npm run day{1}`
+## Possible scripts 
+
+### Run a selected day
+
+Run the selected script using `npm run day{One | Two | Three | etc.}`
+
+### Tests
+
+To run tests use `npm run test`
