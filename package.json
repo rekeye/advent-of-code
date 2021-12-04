@@ -1,6 +1,6 @@
 {
   "name": "@rekeye/advent-of-code",
-  "version": "1.1.6",
+  "version": "1.2.0",
   "description": "A repo containing solutions for the Advent Of Code.",
   "author": "rekeye <12szymon.paluch34@gmail.com>",
   "repository": "git://github.com/rekeye/advent-of-code.git",
@@ -8,10 +8,12 @@
   "private": false,
   "scripts": {
     "dayOne": "ts-node ./src/typescript/dayOne.ts",
+    "dayTwo": "ts-node ./src/typescript/dayTwo.ts",
     "test": "mocha -r ts-node/register './src/tests/**/*.ts'"
   },
   "bin": {
-    "dayOne": "./bin/dayOne"
+    "dayOne": "./bin/dayOne",
+    "dayTwo": "./bin/dayTwo"
   },
   "dependencies": {
     "ts-node": "^10.4.0",
